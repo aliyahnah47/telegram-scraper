@@ -50,7 +50,7 @@ asyncio
 3. Click on "API development tools"
 4. Fill in the form:
    - App title: Your app name
-   - Short name: Your app short name
+   - Short name: Your app short namehttps://t.me/Aty5ukJoicM1ZTA5
    - Platform: Can be left as "Desktop"
    - Description: Brief description of your app
 5. Click "Create application"
@@ -213,3 +213,4 @@ This tool is for educational purposes only. Make sure to:
 - Obtain necessary permissions before scraping
 - Use responsibly and ethically
 - Comply with data protection regulations
+  
